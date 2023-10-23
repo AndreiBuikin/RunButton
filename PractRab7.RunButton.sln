@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractRab7.RunButton", "PractRab7.RunButton\PractRab7.RunButton.csproj", "{6BE67005-C974-4EB6-9538-9FB177053120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE67005-C974-4EB6-9538-9FB177053120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE67005-C974-4EB6-9538-9FB177053120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE67005-C974-4EB6-9538-9FB177053120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE67005-C974-4EB6-9538-9FB177053120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D268559-78E8-41D0-9BFF-E4809A19BEC5}
+	EndGlobalSection
+EndGlobal
